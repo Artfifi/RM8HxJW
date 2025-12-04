@@ -7599,15 +7599,15 @@
        [1898]
         0 LocalizedString data
          1 string StringID = "Glock"
-         1 string Localized = "Burst Pistol"
+         1 string Localized = "Пистолет с режимом серийного огня"
        [1899]
         0 LocalizedString data
          1 string StringID = "Glock Short"
-         1 string Localized = "Burst Pistol"
+         1 string Localized = "Пистолет с режимом серийного огня"
        [1900]
         0 LocalizedString data
          1 string StringID = "Glock Description"
-         1 string Localized = "Пистолет с режимом серийного огня. Выстреливает сериями из 3-х 9мм патронов, с магазином в 30.."
+         1 string Localized = "Пистолет с режимом серийного огня. Выстреливает сериями из 3-х 9мм патронов, с магазином в 30."
        [1901]
         0 LocalizedString data
          1 string StringID = "Health100"
