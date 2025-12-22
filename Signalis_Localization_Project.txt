@@ -235,31 +235,31 @@
        [57]
         0 LocalizedString data
          1 string StringID = "MeatKey Inspect"
-         1 string Localized = ""Room 0512". The tag is splattered in blood."
+         1 string Localized = "«Комната 0512». Бирка забрызгана кровью."
        [58]
         0 LocalizedString data
          1 string StringID = "MoonRing Inspect"
-         1 string Localized = "It looks like it fits into some sort of clock-like mechanism."
+         1 string Localized = "Судя по виду, это подойдет к механизму, похожему на часы."
        [59]
         0 LocalizedString data
          1 string StringID = "KeyOfEternity Description"
-         1 string Localized = "Are you still looking for answers where there are only questions?"
+         1 string Localized = "Ты все еще ищешь ответы там, где есть только вопросы?"
        [60]
         0 LocalizedString data
          1 string StringID = "KeyOfEternity Inspect"
-         1 string Localized = "There's nothing but heartbreak at the end."
+         1 string Localized = "В конце нет ничего, кроме разбитого сердца."
        [61]
         0 LocalizedString data
          1 string StringID = "KeyOfLove Description"
-         1 string Localized = "Cycle 888\nI've tried to teach Elster how to dance. It's so cute how clumsy she can be when it comes to these things."
+         1 string Localized = "Цикл 888\nЯ попыталась научить Элстер танцевать. Меня умиляет её неуклюжесть, когда дело доходит до такого."
        [62]
         0 LocalizedString data
          1 string StringID = "KeyOfLove Inspect"
-         1 string Localized = "Cycle 1024\nBefore I met Elster, I never believed I would find someone I could fall in love with like that."
+         1 string Localized = "Цикл 1024\nДо того, как я встретила Элстер, я никогда не верила, что смогу кого-то полюбить."
        [63]
         0 LocalizedString data
          1 string StringID = "KeyOfSacrifice Description"
-         1 string Localized = "On the horizon, I saw a star fall into the sea, and the sound of thunder, like trumpets of angels, flew over the water."
+         1 string Localized = "На горизонте, я увидела как звезда падает в море - в тот момент звук грома, будто ангельские трубы, пронесся над водой."
        [64]
         0 LocalizedString data
          1 string StringID = "KeyOfSacrifice Inspect"
