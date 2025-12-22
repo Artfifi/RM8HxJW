@@ -259,7 +259,7 @@
        [63]
         0 LocalizedString data
          1 string StringID = "KeyOfSacrifice Description"
-         1 string Localized = "На горизонте, я увидела как звезда падает в море - в тот момент звук грома, будто ангельские трубы, пронесся над водой."
+         1 string Localized = "На горизонте, я увидела как в море падает звезда - в тот момент звук грома, будто ангельские трубы, пронесся над водой."
        [64]
         0 LocalizedString data
          1 string StringID = "KeyOfSacrifice Inspect"
