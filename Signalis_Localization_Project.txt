@@ -2511,7 +2511,7 @@
        [626]
         0 LocalizedString data
          1 string StringID = "LOV_Star_1"
-         1 string Localized = "[STAR] <nobr>…А? Элстер Юнит?\n[STAR] Тебе следует покинуть это место.\n[STAR] Этот объект уже обречён.\n[STAR] Сворачивай обратно, пока не стало слишком поздно.</nobr>"
+         1 string Localized = "[STAR] …А? Элстер Юнит?\n[STAR] Тебе следует покинуть это место.\n[STAR] Этот объект уже обречён.\n[STAR] Сворачивай обратно, пока не стало слишком поздно."
        [627]
         0 LocalizedString data
          1 string StringID = "LOV_Star_2"
@@ -2531,7 +2531,7 @@
        [631]
         0 LocalizedString data
          1 string StringID = "LOV_Star_7"
-         1 string Localized = "[STAR] <nobr>Уровнем ниже, тут есть лифт с доступом в шахты, но тебе понадобится ключ администратора, чтобы использовать его.</nobr>"
+         1 string Localized = "[STAR] Уровнем ниже, тут есть лифт с доступом в шахты,\n[STAR] но тебе понадобится ключ администратора, чтобы использовать его."
        [632]
         0 LocalizedString data
          1 string StringID = "LOV_Isa_1"
